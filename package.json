@@ -1,0 +1,53 @@
+{
+  "name": "react-native-otp-keyboard",
+  "author": "Kartikey Vaish",
+  "version": "1.0.0",
+  "description": "Component for custom OTP Keyboard for React Native/Expo apps",
+  "main": "lib/OTPKeyboard.js",
+  "types": "lib/OTPKeyboard.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.9",
+    "@types/react": "~17.0.21",
+    "@types/react-native": "~0.64.12",
+    "typescript": "~4.3.5"
+  },
+  "contributors": [
+    {
+      "name": "Kartikey Vaish",
+      "url": "https://github.com/kartikeyvaish"
+    }
+  ],
+  "homepage": "https://github.com/kartikeyvaish/react-native-otp-keyboard#readme",
+  "bugs": {
+    "url": "https://github.com/kartikeyvaish/react-native-otp-keyboard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kartikeyvaish/react-native-otp-keyboard.git"
+  },
+  "keywords": [
+    "OTP Input",
+    "OTP Keyboard",
+    "OTP Keyboard Component",
+    "react-native",
+    "react-native-otp-keyboard",
+    "expo-otp-keyboard",
+    "otp-input-keyboard",
+    "custom-otp-keyboard",
+    "custom-otp-keyboard-android",
+    "custom-otp-keyboard-ios",
+    "react-native-otp-keyboard-android",
+    "react-native-otp-keyboard-ios",
+    "otp",
+    "code",
+    "fields"
+  ]
+}
